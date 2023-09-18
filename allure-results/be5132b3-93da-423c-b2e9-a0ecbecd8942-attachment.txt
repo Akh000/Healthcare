@@ -1,0 +1,46 @@
+[32mINFO    [0m Test_Register:test_case.py:12 Web Browser Started..
+[32mINFO    [0m Test_Register:test_case.py:14 Open Website..
+[32mINFO    [0m Test_Register:test_case.py:16 Click on Appointment Button
+[32mINFO    [0m Test_Register:test_case.py:18 Enter Username..
+[32mINFO    [0m Test_Register:test_case.py:20 Enter Password..
+[32mINFO    [0m Test_Register:test_case.py:22 Click on Login Button..
+[32mINFO    [0m Test_Register:test_case.py:33 Select Facility Option..
+[32mINFO    [0m Test_Register:test_case.py:35 Select Readmission Checkbox..
+[32mINFO    [0m Test_Register:test_case.py:37 Select Healthcare Program Radio Button..
+[32mINFO    [0m Test_Register:test_case.py:39 Choose Visit Date..
+[32mINFO    [0m Test_Register:test_case.py:41 Write down general comment..
+[32mINFO    [0m Test_Register:test_case.py:43 Enter Book Appointment Button..
+[32mINFO    [0m Test_Register:test_case.py:45 Print Appointment Details For All Process..
+[32mINFO    [0m Test_Register:test_case.py:50 Click on Appointment Button
+[32mINFO    [0m Test_Register:test_case.py:33 Select Facility Option..
+[32mINFO    [0m Test_Register:test_case.py:35 Select Readmission Checkbox..
+[32mINFO    [0m Test_Register:test_case.py:37 Select Healthcare Program Radio Button..
+[32mINFO    [0m Test_Register:test_case.py:39 Choose Visit Date..
+[32mINFO    [0m Test_Register:test_case.py:41 Write down general comment..
+[32mINFO    [0m Test_Register:test_case.py:43 Enter Book Appointment Button..
+[32mINFO    [0m Test_Register:test_case.py:45 Print Appointment Details For All Process..
+[32mINFO    [0m Test_Register:test_case.py:50 Click on Appointment Button
+[32mINFO    [0m Test_Register:test_case.py:33 Select Facility Option..
+[32mINFO    [0m Test_Register:test_case.py:35 Select Readmission Checkbox..
+[32mINFO    [0m Test_Register:test_case.py:37 Select Healthcare Program Radio Button..
+[32mINFO    [0m Test_Register:test_case.py:39 Choose Visit Date..
+[32mINFO    [0m Test_Register:test_case.py:41 Write down general comment..
+[32mINFO    [0m Test_Register:test_case.py:43 Enter Book Appointment Button..
+[32mINFO    [0m Test_Register:test_case.py:45 Print Appointment Details For All Process..
+[32mINFO    [0m Test_Register:test_case.py:50 Click on Appointment Button
+[32mINFO    [0m Test_Register:test_case.py:33 Select Facility Option..
+[32mINFO    [0m Test_Register:test_case.py:35 Select Readmission Checkbox..
+[32mINFO    [0m Test_Register:test_case.py:37 Select Healthcare Program Radio Button..
+[32mINFO    [0m Test_Register:test_case.py:39 Choose Visit Date..
+[32mINFO    [0m Test_Register:test_case.py:41 Write down general comment..
+[32mINFO    [0m Test_Register:test_case.py:43 Enter Book Appointment Button..
+[32mINFO    [0m Test_Register:test_case.py:45 Print Appointment Details For All Process..
+[32mINFO    [0m Test_Register:test_case.py:50 Click on Appointment Button
+[32mINFO    [0m Test_Register:test_case.py:33 Select Facility Option..
+[32mINFO    [0m Test_Register:test_case.py:35 Select Readmission Checkbox..
+[32mINFO    [0m Test_Register:test_case.py:37 Select Healthcare Program Radio Button..
+[32mINFO    [0m Test_Register:test_case.py:39 Choose Visit Date..
+[32mINFO    [0m Test_Register:test_case.py:41 Write down general comment..
+[32mINFO    [0m Test_Register:test_case.py:43 Enter Book Appointment Button..
+[32mINFO    [0m Test_Register:test_case.py:45 Print Appointment Details For All Process..
+[32mINFO    [0m Test_Register:test_case.py:50 Click on Appointment Button
